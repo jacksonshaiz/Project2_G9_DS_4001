@@ -5,7 +5,7 @@ Our goal is to create a model that tracks the trends of the top stocks currently
 The data for this project was pulled from Yahoo Finance’s stock index. The data has not been altered and remains what we pulled from the website. All information is reflected as is posted on Yahoo Finance’s website.
 
 ## Data Dictionary
-see DataDictionary pdf
+see DataDictionary.png
 
 ## Exploratory Plots
-see Exploratory Plots folder
+see Exploratory Plots pdf
