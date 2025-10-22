@@ -8,4 +8,4 @@ The data for this project was pulled from Yahoo Finance’s stock index. The dat
 see DataDictionary.png
 
 ## Exploratory Plots
-see Exploratory Plots pdf
+see ExploratoryPlots.pdf
